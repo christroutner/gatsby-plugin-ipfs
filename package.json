@@ -1,5 +1,5 @@
 {
-    "name": "gatsby-plugin-ipfs",
+    "name": "@chris.troutner/gatsby-plugin-ipfs",
     "description": "Adds support for deploying Gatsby to IPFS by ensuring that assets are relative",
     "version": "2.0.3",
     "keywords": [
@@ -9,11 +9,14 @@
         "ipns",
         "relative"
     ],
-    "author": "André Cruz <andre@moxy.studio>",
-    "homepage": "https://github.com/moxystudio/gatsby-pljugin-ipfs",
+    "author": "Chris Troutner <chris.troutner@gmail.com>",
+    "contributors": [
+        "André Cruz <andre@moxy.studio>"
+    ],
+    "homepage": "https://github.com/christroutner/gatsby-plugin-ipfs",
     "repository": {
         "type": "git",
-        "url": "git@github.com:moxystudio/gatsby-plugin-ipfs.git"
+        "url": "git@github.com:christroutner/gatsby-plugin-ipfs.git"
     },
     "license": "MIT",
     "files": [
